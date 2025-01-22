@@ -1,6 +1,6 @@
-# PGM - Protein Geometry Manager
+# PGM - Protein GROMACS Manager
 
-**PGM** (Protein Geometry Manager) é um programa desenvolvido em C++ para o processamento e preparação de arquivos PDB para simulações no GROMACS. Ele automatiza etapas essenciais, como limpeza de resíduos de água, geração de topologias, configuração da caixa de simulação, e solvatação do sistema.
+**PGM** (Protein GROMACS Manager) é um programa desenvolvido em C++ para o processamento e preparação de arquivos PDB para simulações no GROMACS. Ele automatiza etapas essenciais, como limpeza de resíduos de água, geração de topologias, configuração da caixa de simulação, e solvatação do sistema.
 
 ## Funcionalidades
 - Processa arquivos `.pdb` para preparar entradas para o GROMACS.
@@ -41,9 +41,6 @@ Incluímos neste repositório um arquivo de exemplo chamado `1aki.pdb`. Você po
 
 ## Contribuições
 Contribuições são bem-vindas! Caso encontre algum problema ou tenha sugestões de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Autor
 Lucca - Desenvolvedor Full Stack e Químico Teórico
